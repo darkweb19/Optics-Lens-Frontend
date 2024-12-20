@@ -2,6 +2,7 @@ import HeroCarousel from "@/components/HeroCarousel";
 import Achievements from "@/components/Achievements";
 import Categories from "@/components/Categories";
 import FeaturedProducts from "@/components/FeaturedProducts";
+import { Testimonials } from "@/components/ui/testimonials";
 
 export default function Home() {
 	return (
@@ -10,6 +11,7 @@ export default function Home() {
 			<Achievements />
 			<Categories />
 			<FeaturedProducts />
+			<Testimonials />
 		</main>
 	);
 }
