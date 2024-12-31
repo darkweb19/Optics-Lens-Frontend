@@ -38,7 +38,7 @@ export default function Footer() {
 							<li>1 Falaise Road</li>
 							<li>Scarborough, M1E 0B9</li>
 							<li>Phone: (416) 232-1280</li>
-							<li>Email: support@opticlens.com</li>
+							<li>Email: sujan@shrestha.com</li>
 						</ul>
 					</div>
 					<div>
